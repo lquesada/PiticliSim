@@ -1,12 +1,11 @@
 Piticli Sim
 ===========
 
-Walking a dog simulator.
+Walk-a-dog simulator, runs in Voxatron (virtual voxel-based gaming console). Quite simple "game".
 
 Copyright (c) 2017, Luis Quesada Torres - https://github.com/lquesada | www.luisquesada.com
 
-Piticli Sim runs in Voxatron.
 
 The image is actually a screenshot *and* the (editable) voxatron cartridge.
 
-Check the https://github.com/lquesada/PiticliSim/releases page for a video.
+Check the https://github.com/lquesada/PiticliSim/releases page for a gameplay video.
